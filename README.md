@@ -2,7 +2,7 @@
 
 This repository holds all the ENCODE BED files required for the
 ChIP Association Tester (CAT) online tool that can be downloaded from
-https://github.com/andysaurin/
+https://github.com/andysaurin/CAT
 
 The default directory in which to checkout this repo is in the CAT data directory
 
